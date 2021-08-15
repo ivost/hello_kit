@@ -1,3 +1,6 @@
+.idea
+.DS_Store
+go.sum
 # Binaries for programs and plugins
 *.exe
 *.exe~
